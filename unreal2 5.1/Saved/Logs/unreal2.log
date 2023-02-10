@@ -6807,3 +6807,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.10-00.08.32:884][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprint/mallet_bp.mallet_bp
 [2023.02.10-00.08.32:884][ 97]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/VirtualRealityBP/NewInstancedStaticMeshFoliage.NewInstancedStaticMeshFoliage
 [2023.02.10-00.08.32:884][ 97]LogContentValidation: Display: Validating /Script/Engine.World /Game/mapsphysics/physics.physics
+[2023.02.10-00.13.17:897][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.10-00.13.19:774][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.10-00.13.33:496][345]LogViewport: Scene viewport resized to 1159x656, mode Windowed.
